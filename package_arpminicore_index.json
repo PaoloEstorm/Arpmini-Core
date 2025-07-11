@@ -7,7 +7,7 @@
       "email": "",
       "platforms": [
         {
-          "name": "ArpminiCore AVR Boards",
+          "name": "Arpmini Core",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Arduino",
