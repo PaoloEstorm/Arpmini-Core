@@ -1,5 +1,7 @@
 # Arpmini-Core
-Custom Arduino Core for ATmega32u4-based boards using a 512-byte bootloader (nanoBoot), replacing the default "Caterina" bootloader and freeing up 3.5 KB of flash memory
+Custom Arduino Core for ATmega32u4-based boards using a 512-byte bootloader (nanoBoot), replacing the default "Caterina" bootloader and freeing up 3.5 KB of flash memory!
+
+Source code for the bootloader and upload tool are included.
 
 # Boards Manager Installation
 
