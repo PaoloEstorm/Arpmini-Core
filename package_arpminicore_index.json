@@ -1,0 +1,29 @@
+{
+  "packages": [
+    {
+      "name": "ArpminiCore",
+      "maintainer": "Paolo Estorm",
+      "websiteURL": "https://github.com/PaoloEstorm/Arpmini-Core",
+      "email": "",
+      "platforms": [
+        {
+          "name": "ArpminiCore AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Arduino",
+          "url": "https://github.com/PaoloEstorm/Arpmini-Core/releases/download/ArpminiCore/ArpminiCore-avr-1.0.0.zip",
+          "archiveFileName": "ArpminiCore-avr-1.0.0.zip",
+          "checksum": "SHA-256:ed77504b48e621d15e0d64e206215318c0b1423d120f478a4a417647c0616d59",
+          "size": 15803967,
+          "boards": [
+            {
+              "name": "Arpmini"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
