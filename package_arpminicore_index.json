@@ -13,7 +13,7 @@
           "url": "https://github.com/PaoloEstorm/Arpmini-Core/releases/download/ArpminiCore/ArpminiCore-avr-1.0.0.zip",
           "archiveFileName": "ArpminiCore-avr-1.0.0.zip",
           "checksum": "SHA-256:84fbeeb33b74bf281cff767c53b0db826955c7d05b79114c5e8266ae9e8a429e",
-          "size": 15853962,
+          "size": 15847464,
           "boards": [
             {
               "name": "Arpmini"
